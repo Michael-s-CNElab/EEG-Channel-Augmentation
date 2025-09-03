@@ -1,2 +1,1 @@
-# EEG-Channel-Augmentation
-EEG-Channel Augmentation
+### Huggingface Transformer format for ART

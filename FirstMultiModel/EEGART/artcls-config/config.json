@@ -1,0 +1,16 @@
+{
+  "N": 2,
+  "architectures": [
+    "ARTCLSModel"
+  ],
+  "d_ff": 2048,
+  "d_model": 128,
+  "dropout": 0.1,
+  "h": 8,
+  "model_type": "ARTEncoder_CLSConfig",
+  "src_channel_size": 30,
+  "tgt_channel_size": 2,
+  "time_len": 1024,
+  "torch_dtype": "float32",
+  "transformers_version": "4.46.1"
+}

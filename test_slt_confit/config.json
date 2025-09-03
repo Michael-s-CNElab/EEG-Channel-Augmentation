@@ -1,0 +1,16 @@
+{
+  "N": 6,
+  "d_ff": 2048,
+  "d_model": 128,
+  "dropout": 0.1,
+  "h": 8,
+  "model_type": "SLT",
+  "sensor_time": 101,
+  "source_voxel_time": 101,
+  "src_channel_size": 30,
+  "src_len": 30,
+  "tgt_channel_size": 30,
+  "tgt_d_model": 128,
+  "tgt_len": 204,
+  "transformers_version": "4.37.2"
+}
